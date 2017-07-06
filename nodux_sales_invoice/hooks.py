@@ -10,8 +10,8 @@ app_icon = "octicon octicon-file-directory"
 app_color = "red"
 app_email = "jessicat@nodux.ec"
 app_license = "MIT"
-fixtures = ["Pricing Rule","Sales Invoice","Sales Invoice Item","Item","Delivery Note","Delivery Note Item","Purchase Order",
-            "Purchase Order Item", "Purchase Invoice"]
+# fixtures = ["Pricing Rule","Sales Invoice","Sales Invoice Item","Item","Delivery Note","Delivery Note Item","Purchase Order",
+#             "Purchase Order Item", "Purchase Invoice"]
 
 doctype_js = {
    "Sales Invoice": ["sales/sales_invoice.js"],
